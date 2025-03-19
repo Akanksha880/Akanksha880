@@ -1,6 +1,6 @@
 ### Hi there, I'm Akanksha Kotwal! 👋
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,programming,developer)
+![Profile Banner](./aboutpage.png)
 
 I'm a passionate **Full-Stack Web Developer, UI/UX Designer, and Open-Source Contributor** 🚀. I specialize in **creating highly interactive, modern, and responsive web applications** with a keen eye for design and functionality.
 
